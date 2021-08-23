@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Akshay G</h1>
 <h3 align="center">I’m a full-stack developer who loves building user-friendly websites and web apps, enjoys writing documentation and loves helping people learn how to code.</h3>
 
-- 🌱 I’m currently learning **sass**
 
 - 👨‍💻 All of my projects are available at [https://www.akshayg.tech/](https://www.akshayg.tech/)
 
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **akshayg676@gmail.com**
 
-- 📄 Know about my experiences [https://www.akshayg.tech/resume/resume.html](https://www.akshayg.tech/resume/resume.html)
 
 - ⚡ Fun fact **I always code as if the guy who ends up maintaining my code will be a violent psychopath who knows where I live.**
-
-## Examples of Work
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
@@ -32,3 +27,10 @@
 <a href="https://codepen.io/akshay-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshay-g" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshay-g-700183181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-g-700183181" height="30" width="40" /></a>
 </p>
+
+## Examples of Work
+<img src="https://github.com/akshayg676/akshayg676/blob/main/shopy.gif" width="600"/>
+<img src="https://github.com/akshayg676/akshayg676/blob/main/game.gif" width="600"/>
+<img src="https://github.com/akshayg676/akshayg676/blob/main/chatish.gif" width="600"/>
+<img src="https://github.com/akshayg676/akshayg676/blob/main/guess.gif" width="600"/>
+<img src="https://github.com/akshayg676/akshayg676/blob/main/travelsio.gif" width="600"/>
