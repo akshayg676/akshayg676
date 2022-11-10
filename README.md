@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay G</h1>
-<h3 align="center">I’m a full-stack developer who loves building user-friendly websites and web apps, enjoys writing documentation and loves helping people learn how to code.</h3>
+<h3 align="center">I’m a front-end developer who loves building user-friendly websites and web apps, enjoys writing documentation and loves helping people learn how to code.</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://www.akshayg.tech/](https://www.akshayg.tech/)
