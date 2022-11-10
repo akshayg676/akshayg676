@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay G</h1>
 <h3 align="center">I’m a front-end developer who loves building user-friendly websites and web apps, enjoys writing documentation and loves helping people learn how to code.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayg676" alt="akshayg676" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayg676" alt="akshayg676" /></a> </p> -->
 
 - 🌱 I’m currently learning **Jest**
 
@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayg676&show_icons=true&locale=en&layout=compact" alt="akshayg676" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayg676&show_icons=true&locale=en" alt="akshayg676" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayg676&show_icons=true&locale=en" alt="akshayg676" /></p>
 <br/>
 
 ## Connect with me:
@@ -32,8 +32,9 @@
 <a href="https://stackoverflow.com/users/15064229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15064229" height="30" width="40" /></a>
 </p>
 <br/>
-## Examples of Work:
-<img src="https://github.com/akshayg676/akshayg676/blob/main/aurauni.gif" width="600" height="600"/>
+
+## Examples of my work:
+<img src="https://github.com/akshayg676/akshayg676/blob/main/aurauni.gif" width="600px" height="600px"/>
 <img src="https://github.com/akshayg676/akshayg676/blob/main/binarybee.gif" width="600"/>
 <img src="https://github.com/akshayg676/akshayg676/blob/main/chocoholics.gif" width="600"/>
 <img src="https://github.com/akshayg676/akshayg676/blob/main/hotspot.gif" width="600"/>
