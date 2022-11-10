@@ -21,9 +21,8 @@
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayg676&show_icons=true&locale=en&layout=compact" alt="akshayg676" /></p>
-<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akshayg676&show_icons=true&locale=en" alt="akshayg676" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayg676&show_icons=true&locale=en" alt="akshayg676" /></p>
 <br/>
 
 ## Connect with me:
