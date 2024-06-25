@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akshayg676@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QhINfPBq4tkx1BwBI-IJm9KQARF_wkWb/view](https://drive.google.com/file/d/1QhINfPBq4tkx1BwBI-IJm9KQARF_wkWb/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dAZBdByNMCeEpxUIH_Z8Kjp5YE9NcXHb/view](https://drive.google.com/file/d/1dAZBdByNMCeEpxUIH_Z8Kjp5YE9NcXHb/view)
 
 - ⚡ Fun fact **I always code as if the guy who ends up maintaining my code will be a violent psychopath who knows where I live.**
 <br/>
